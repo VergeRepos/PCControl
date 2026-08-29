@@ -349,7 +349,7 @@ Clipboard sync can leak sensitive data.
 If you discover a security vulnerability:
 
 1. **DO NOT** open a public issue
-2. Email: security@pccontrol.example.com (update with real contact)
+2. Email: nybentulan@gmail.com
 3. Include: description, reproduction steps, impact assessment
 4. Allow 90 days for fix before public disclosure
 
